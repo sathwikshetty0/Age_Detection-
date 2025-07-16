@@ -34,7 +34,7 @@ Clone the repository:
 ```python
 
 Copy code
-git clone https://github.com/your-repo/age-detection-opencv.git
+git clone https://github.com/sathwikshetty0/Age_Detection-.git
 cd age-detection-opencv
 ```
 Install dependencies:
